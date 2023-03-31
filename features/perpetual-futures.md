@@ -1,4 +1,6 @@
-# Perpetual Futures
+# 🟪 Perpetual Futures
+
+<figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 
 At <mark style="background-color:red;">Ultron Vault</mark>, we have adopted operations in perpetual cryptocurrency futures. These operations are becoming increasingly popular among cryptocurrency investors and offer a number of <mark style="background-color:red;">benefits over traditional futures.</mark>
 

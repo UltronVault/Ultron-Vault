@@ -17,6 +17,6 @@
 * [Referrals Program](features/referrals-program.md)
 * [Trading](features/trading.md)
 * [Brigde](features/brigde.md)
-* [Perpetual Futures](features/perpetual-futures.md)
+* [🟪 Perpetual Futures](features/perpetual-futures.md)
 * [Fundig Fee](features/fundig-fee.md)
 * [Page 1](features/page-1.md)

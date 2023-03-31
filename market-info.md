@@ -1,6 +1,6 @@
 # Market Info
 
-<figure><img src=".gitbook/assets/facebook (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/01.png" alt=""><figcaption></figcaption></figure>
 
 Cryptocurrencies offer a range of benefits, including security, anonymity, transparency, low fees, decentralization, global access, and investment potential. As a cryptocurrency professional, it is important to understand these benefits in order to advise clients in the best possible way.
 
