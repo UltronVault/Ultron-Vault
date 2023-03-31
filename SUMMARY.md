@@ -11,7 +11,7 @@
 
 ## Features
 
-* [Staking](features/staking.md)
+* [🟪 Staking](features/staking.md)
 * [Referrals Program](features/referrals-program.md)
 * [Trading](features/trading.md)
 * [Arbitrage](arbitrage.md)
