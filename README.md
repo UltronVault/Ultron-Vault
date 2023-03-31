@@ -26,3 +26,15 @@ coverY: 0
 #### <mark style="background-color:red;"></mark>[<mark style="background-color:red;">Trading</mark> ](./#trading)<mark style="background-color:red;"></mark>
 
 * Ultron Vault trading can offer the opportunity to make high profits in short periods of time, thanks to the volatility of cryptocurrency prices and the accessibility of the market.
+
+#### <mark style="background-color:red;"></mark>[<mark style="background-color:red;">NFT Staking</mark>](features/nft-staking.md)<mark style="background-color:red;"></mark>
+
+* NFT staking on Ultron Vault involves holding NFTs for a specific period of time in exchange for rewards. Benefits include passive earnings, potential increase in NFT value, and participation in governance.
+
+#### <mark style="background-color:red;"></mark>[<mark style="background-color:red;">Brigde</mark>](./#brigde)<mark style="background-color:red;"></mark>
+
+* Bridge Ultron Vault are a useful tool for cryptocurrency investors and traders who wish to access different blockchains and applications and expand their trading options.
+
+#### <mark style="background-color:red;"></mark>[<mark style="background-color:red;">Arbitrage</mark>](./#arbitrage)<mark style="background-color:red;"></mark>
+
+* Arbitrage is a strategy used by cryptocurrency traders to take advantage of price differences between exchanges or markets, profiting from the difference. The modality can be beneficial for investors who want quick gains and relatively low risk.\

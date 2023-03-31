@@ -1,2 +1,0 @@
-# 🟪 Fundig Fee
-
