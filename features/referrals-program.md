@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/facebook (1).png
+coverY: 0
+---
+
 # 🟪 Referrals Program
 
 <figure><img src="../.gitbook/assets/07.png" alt=""><figcaption></figcaption></figure>

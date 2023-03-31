@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/facebook (1).png
+coverY: 0
+---
+
 # 🟪 Swap
 
 A cryptocurrency <mark style="background-color:red;">Swap</mark> is a financial transaction in which two parties agree to exchange one cryptocurrency for another, based on a pre-agreed exchange rate. This transaction can be carried out on a decentralized finance (DeFi) platform or a centralized exchange, without the need for intermediaries or traditional financial institutions, reducing costs and making transactions more efficient. In addition, our <mark style="background-color:red;">Ultron Vault</mark> swaps can be carried out instantly and at any time, allowing users to take advantage of real-time trading <mark style="background-color:red;">opportunities.</mark>

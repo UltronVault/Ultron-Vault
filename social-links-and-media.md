@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/facebook (1).png
+coverY: 0
+---
+
 # 🟪 Social Links & Media
 
 <figure><img src=".gitbook/assets/03.png" alt=""><figcaption></figcaption></figure>

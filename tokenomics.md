@@ -8,7 +8,7 @@ coverY: 0
 | Description           | UltronVault                                                                                               |
 | --------------------- | --------------------------------------------------------------------------------------------------------- |
 | Token Name            | Ultron Vault                                                                                              |
-| Token Symbol          |                                                                                                           |
+| Token Symbol          | ULTRON                                                                                                    |
 | Token Decimals        | 18                                                                                                        |
 | Total Supply          |                                                                                                           |
 | Start Time            |                                                                                                           |

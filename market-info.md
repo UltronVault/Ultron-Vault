@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/facebook (1).png
+coverY: 0
+---
+
 # 🟪 Market Info
 
 <figure><img src=".gitbook/assets/01.png" alt=""><figcaption></figcaption></figure>

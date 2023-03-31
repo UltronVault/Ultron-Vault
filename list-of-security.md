@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/facebook (1).png
+coverY: 0
+---
+
 # 🟪 List of Security
 
 <figure><img src=".gitbook/assets/02.png" alt=""><figcaption></figcaption></figure>

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/facebook (1).png
+coverY: 0
+---
+
 # 🟪 Perpetual Futures
 
 <figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>

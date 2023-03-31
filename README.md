@@ -5,6 +5,8 @@ coverY: 0
 
 # Introduction
 
+
+
 #### <mark style="background-color:red;"></mark>[<mark style="background-color:red;">Staking</mark>](./#staking)<mark style="background-color:red;"></mark>
 
 Ultron Vault staking is a way for users to invest their cryptocurrencies and receive rewards in return. Additionally, it helps ensure the network's security and incentivizes users to hold their cryptocurrencies long-term.
@@ -16,3 +18,7 @@ Our Referral Program at Ultron Vault can be an efficient way to increase the use
 #### <mark style="background-color:red;"></mark>[<mark style="background-color:red;">Swap</mark>](./#swap)<mark style="background-color:red;"></mark>
 
 Ultron Vault swaps are an efficient and secure way to exchange cryptocurrencies without the need for intermediaries or traditional financial institutions. In addition, participation in liquidity pools can be a way to earn rewards while providing liquidity to the market.
+
+#### <mark style="background-color:red;"></mark>[<mark style="background-color:red;">Artificial Intelligence</mark> ](features/artificial-intelligence.md)<mark style="background-color:red;"></mark>
+
+AI Ultron Vault has the potential to revolutionize the way cryptocurrency is traded and analyzed. By leveraging the power of AI, traders can make more informed decisions, reduce risk, and increase efficiency.

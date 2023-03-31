@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/facebook (1).png
+coverY: 0
+---
+
 # 🟪 Pinksale
 
 <figure><img src=".gitbook/assets/04 (2).png" alt=""><figcaption></figcaption></figure>

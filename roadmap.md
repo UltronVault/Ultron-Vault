@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/facebook (1).png
+coverY: 0
+---
+
 # 🟪 Roadmap
 
 <figure><img src=".gitbook/assets/facebook (1).png" alt=""><figcaption></figcaption></figure>
