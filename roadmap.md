@@ -1,4 +1,4 @@
-# Roadmap
+# 🟪 Roadmap
 
 <figure><img src=".gitbook/assets/facebook (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -10,6 +10,11 @@
 * <mark style="background-color:red;">Engagement with the BSC Mainnet ecosystem and marketing partnerships:</mark> To increase the visibility and success of the project, it is essential to engage with the BSC Mainnet ecosystem and establish partnerships with other projects and marketing partners. This includes identifying potential partners, negotiating agreements, and developing joint marketing campaigns to promote the project and increase its adoption.
 * <mark style="background-color:red;">Community growth:</mark> Building a strong and engaged community is crucial for the success of any project. This involves creating engaging content, hosting events and giveaways, and fostering open communication with community members to build trust and loyalty.
 * I<mark style="background-color:red;">nventory of resources and costs:</mark> Finally, it is important to take stock of all resources and costs associated with the project. This includes identifying the necessary funding, human resources, and technology needed to complete the project, as well as estimating the overall costs and creating a budget to ensure financial sustainability.
+
+<!---->
+
+* [x] KYC/ AUDIT and SAFU
+* [x] Fairlaunch Pinksale.Finance
 
 #### Second Phase
 
@@ -27,3 +32,14 @@ Integrating web app platforms with the development of bridge, decentralized exch
   <mark style="background-color:red;">Benefits:</mark> This integration can help increase liquidity, efficiency, and security of the platform, as well as allow users to access a variety of additional resources and services.
 
 #### Third phase
+
+* <mark style="background-color:red;">Aggressive marketing strategy to expand the target audience:</mark> An aggressive marketing strategy can be an effective way to attract more customers and increase awareness about the company and its products or services. This may involve paid advertising campaigns, partnerships with influencers, content marketing, and other aggressive marketing tactics. The goal is to reach a larger and more diverse audience to increase business opportunities.
+* <mark style="background-color:red;">Transition to DAO structure:</mark> A DAO (Decentralized Autonomous Organization) structure is a form of decentralized governance that allows users to participate in the decision-making process of the organization. This transition can help increase transparency and accountability of the company, as well as allow users to have a greater involvement in the direction of the company.
+*   <mark style="background-color:red;">Offering an MM storefront: An MM (Making Market)</mark> storefront can help increase the liquidity of the company by allowing users to trade directly with other users on the platform. This can help reduce transaction fees and increase the overall efficiency of the platform.
+
+    Expanding offered markets: Expanding the markets offered can help the company serve a larger and more diverse customer base. This may involve adding new products or services, as well as expanding into new geographic markets.
+* <mark style="background-color:red;">Open-source GitHub repositories:</mark> Open-source GitHub repositories allow users to view and contribute to the company's software development. This can help increase transparency and user trust in the company, as well as allow the developer community to contribute to the development of new features and improvements to the platform.
+* <mark style="background-color:red;">Aggregator:</mark> An aggregator is a platform that collects information from various sources and presents it in an organized and accessible way to users. This can help increase the convenience and efficiency of the platform by allowing users to access multiple pieces of information in one place.
+
+#### in sequence...
+

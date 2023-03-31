@@ -1,4 +1,4 @@
-# Market Info
+# 🟪 Market Info
 
 <figure><img src=".gitbook/assets/01.png" alt=""><figcaption></figcaption></figure>
 
