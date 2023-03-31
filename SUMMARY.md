@@ -11,13 +11,14 @@
 
 ## Features
 
-* [🟪 Staking](features/staking.md)
 * [🟪 Perpetual Futures](features/perpetual-futures.md)
 * [🟪 Referrals Program](features/referrals-program.md)
+* [🟪 Swap](features/swap.md)
+* [🟪 Staking](features/staking.md)
 * [🟪 Trading](features/trading.md)
 * [🟪 Arbitrage](arbitrage.md)
-* [🟪 Swap](features/swap.md)
 * [🟪 Artificial Inteligences](features/artificial-inteligences.md)
 * [🟪 NFT Ultron](features/nft-ultron.md)
 * [🟪 Brigde](features/brigde.md)
 * [🟪 Fundig Fee](features/fundig-fee.md)
+* [🟪 Staking](features/staking-1.md)
