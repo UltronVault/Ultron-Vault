@@ -16,7 +16,7 @@
 * [🟪 Swap](features/swap.md)
 * [🟪 Staking](features/staking.md)
 * [🟪 Trading](features/trading.md)
-* [🟪 Artificial Intelligence](features/artificial-intelligence.md)
+* [🟪 Artificial Intelligence](features/artificial-inteligences.md)
 * [🟪 NFT Ultron](features/nft-ultron.md)
 * [🟪 Brigde](features/brigde.md)
 * [🟪 Arbitrage](arbitrage.md)
