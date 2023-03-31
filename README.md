@@ -5,7 +5,9 @@ coverY: 0
 
 # Introduction
 
+#### <mark style="background-color:red;"></mark>[<mark style="background-color:red;">Staking</mark>](./#staking)<mark style="background-color:red;"></mark>
 
+Ultron Vault staking is a way for users to invest their cryptocurrencies and receive rewards in return. Additionally, it helps ensure the network's security and incentivizes users to hold their cryptocurrencies long-term.
 
 <mark style="background-color:red;">****</mark>[<mark style="background-color:red;">**Referrals Program**</mark> ](features/referrals-program.md)<mark style="background-color:red;">****</mark>
 
