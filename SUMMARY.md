@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Market Info](market-info.md)
 * [Roadmap](roadmap.md)
 * [List of Security](list-of-security.md)
 * [List of Markets](list-of-markets.md)
