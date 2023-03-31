@@ -1,2 +1,2 @@
-# Trading
+# 🟪 Trading
 
