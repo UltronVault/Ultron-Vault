@@ -10,7 +10,7 @@ coverY: 0
 | Token Name            | Ultron Vault                                                                                              |
 | Token Symbol          | ULTRON                                                                                                    |
 | Token Decimals        | 18                                                                                                        |
-| Total Supply          |                                                                                                           |
+| Total Supply          | 1,000,000                                                                                                 |
 | Start Time            |                                                                                                           |
 | End Time              |                                                                                                           |
 | Listing On            | [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0x71469B1180E2A76BA82A9cE7609077acb52f7B29) |
