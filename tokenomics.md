@@ -14,7 +14,7 @@ coverY: 0
 | Start Time            |                                                                                                           |
 | End Time              |                                                                                                           |
 | Listing On            | [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0x71469B1180E2A76BA82A9cE7609077acb52f7B29) |
-| Liquidity Percent     | 60%                                                                                                       |
+| Liquidity Percent     | 51%                                                                                                       |
 | Liquidity Lockup Time | 365 days                                                                                                  |
 
 #### Token Metrics
