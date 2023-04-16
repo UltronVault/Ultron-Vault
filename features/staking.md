@@ -20,3 +20,5 @@ coverY: 0
 #### An example:
 
 * Suppose a user has 100 units of <mark style="background-color:red;">ULTRON</mark>. The PoS network requires the user to lock up at least 50 units as collateral to become a validator. In return, the user receives an annual reward of 110% in units of the same cryptocurrency (<mark style="background-color:red;">ULTRON).</mark> If the cryptocurrency's price increases during the staking period, the user can earn additional gains.
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-16 às 11.39.59.png" alt=""><figcaption></figcaption></figure>

@@ -19,3 +19,7 @@ Another advantage of <mark style="background-color:red;">perpetual futures</mark
 * Suppose you want to trade Bitcoin perpetual futures with a 10x leverage. You decide to open a long position of 1 BTC at a price of $50,000. The initial margin required is 10%, which means you need to deposit $5,000 to open the position.
 * Now, suppose the price of Bitcoin rises to $55,000 and you decide to close the position. You made a profit of $5,000 in the trade, which is a 100% return on the initial margin. However, if the price of Bitcoin falls to $45,000, you will have a loss of $5,000 in the trade, which represents a 100% loss on the initial margin.
 * Ultron Vault's perpetual futures are an interesting option for cryptocurrency investors who want to hold long-term positions and diversify their investment portfolios.
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-16 às 11.36.14.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-16 às 11.37.03.png" alt=""><figcaption></figcaption></figure>

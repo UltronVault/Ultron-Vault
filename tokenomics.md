@@ -30,9 +30,9 @@ coverY: 0
 | Advisors             |   5%   |
 | Referrals Program    |  2,5%  |
 
-#### Fee 1% Purchases and 2% Sales
+#### Fee 2% Purchases and 2% Sales
 
-| Fee                |  %  | Description              |
-| ------------------ | :-: | ------------------------ |
-| <h4>Purchases</h4> |  1% | New Platform Development |
-| **Sales**          |  2% | Fund raised for burnings |
+| Fee                |  %  | Description            |
+| ------------------ | :-: | ---------------------- |
+| <h4>Purchases</h4> |  2% | Reflection for Holders |
+| **Sales**          |  2% | Reflection for Holders |
