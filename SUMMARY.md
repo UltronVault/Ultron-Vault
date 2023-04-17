@@ -15,6 +15,8 @@
 * [🟪 Referrals Program](features/referrals-program.md)
 * [🟪 Swap](features/swap.md)
 * [🟪 Staking](features/staking.md)
+* [🟪 Layer 2](features/layer-2.md)
+* [🟪 ZK-Rollup](features/zk-rollup.md)
 * [🟪 NFT Staking](features/nft-staking.md)
 * [🟪 Artificial Intelligence](features/artificial-inteligences.md)
 * [🟪 Brigde](features/brigde.md)
