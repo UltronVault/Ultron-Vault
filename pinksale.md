@@ -7,7 +7,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/04 (2).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.pinksale.finance/" %}
+{% embed url="https://www.pinksale.finance/launchpad/0xD30D6Cdd98E54262b3727781e1868ecB8D7559dE?chain=BSC" %}
 
 The <mark style="background-color:red;">Pinksale</mark> platform will be a key component of our Ultron Vault project, as it will be the platform where our sales will be conducted. Pinksale is a leading platform for conducting token sales and initial coin offerings (ICOs), and it has a proven track record of successfully launching and promoting blockchain projects.\
 
