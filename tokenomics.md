@@ -31,7 +31,7 @@ coverY: 0
 
 #### Fee 2% Purchases and 2% Sales
 
-| Fee                |  %  | Description |
-| ------------------ | :-: | ----------- |
-| <h4>Purchases</h4> |  2% |             |
-| **Sales**          |  2% |             |
+| Fee                |  %  | Description             |
+| ------------------ | :-: | ----------------------- |
+| <h4>Purchases</h4> |  2% | Reflection for holders  |
+| **Sales**          |  2% | Reflection for holders  |
