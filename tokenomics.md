@@ -27,7 +27,7 @@ coverY: 0
 | Developmente Project |  5% |
 | Marketing            |  5% |
 | Partner Influencers  |  5% |
-| Cex Listing 2        |  5% |
+| Incentive Programs   |  5% |
 
 #### Fee 2% Purchases and 2% Sales
 
