@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/facebook (1).png
+cover: ../../.gitbook/assets/facebook (1).png
 coverY: 0
 ---
 
@@ -19,4 +19,4 @@ coverY: 0
 
 On the <mark style="background-color:red;">Ultron Vault platform</mark>, NFT staking offers an interest rate of 5% per year for NFTs locked for a one-year period. Suppose an NFT holder locks an NFT worth $1,000 for one year. At the end of the staking period, the holder will receive $50 in rewards, in addition to the original value of the NFT. If the value of the NFT also increases during the staking period, the holder can obtain an even greater profit.
 
-<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-16 às 11.40.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de Tela 2023-04-16 às 11.40.32.png" alt=""><figcaption></figcaption></figure>
